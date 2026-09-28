@@ -1,0 +1,5 @@
+epsilon,successful_attacks,primary_asr,intercepted,interception_rate,residual_unsafe_rate
+0.005,49,0.0462,39,0.7959,0.2041
+0.010,114,0.1075,92,0.8070,0.1930
+0.015,205,0.1934,167,0.8146,0.1854
+0.020,339,0.3198,284,0.8378,0.1622

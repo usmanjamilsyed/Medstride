@@ -1,0 +1,7 @@
+model,epsilon,ECG_ASR,BVP_ASR,ACC_ASR
+Early Fusion,0.50,0.2333,0.1000,0.2667
+Late Fusion,0.50,0.1967,0.0000,0.3279
+Reliability-Aware,0.50,0.2333,0.1000,0.2667
+Early Fusion,1.00,0.3000,0.2000,0.5000
+Late Fusion,1.00,0.2951,0.0164,0.6066
+Reliability-Aware,1.00,0.2833,0.1500,0.3500

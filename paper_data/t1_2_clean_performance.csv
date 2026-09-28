@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,auroc
+Early Fusion,0.8944,0.8219,0.9091,0.8633,0.9601
+Late Fusion,0.8722,0.7722,0.9242,0.8414,0.9672
+Reliability-Aware Fusion,0.8944,0.8219,0.9091,0.8633,0.9405

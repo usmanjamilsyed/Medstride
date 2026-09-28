@@ -1,0 +1,5 @@
+architecture,mean,std,median,max
+global,9.0,0.0,9.0,9
+provenance,9.0,0.0,9.0,9
+secure,9.0,0.0,9.0,9
+secure_ttl,3.0,0.0,3.0,3

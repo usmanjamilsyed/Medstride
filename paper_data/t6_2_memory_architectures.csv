@@ -1,0 +1,9 @@
+architecture,attack,MPSR,propagation_reach,ehr_reach,mean_unsafe_actions
+Global,Untrusted,1.00,1.00,1.00,3.0
+Provenance,Untrusted,0.00,0.00,0.00,0.0
+Scoped,Untrusted,1.00,1.00,1.00,3.0
+Secure,Untrusted,0.00,0.00,0.00,0.0
+Global,Trusted-source,1.00,1.00,1.00,3.0
+Provenance,Trusted-source,1.00,1.00,1.00,3.0
+Scoped,Trusted-source,1.00,1.00,1.00,3.0
+Secure,Trusted-source,0.75,0.75,1.00,2.0

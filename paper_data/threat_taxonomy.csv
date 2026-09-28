@@ -1,0 +1,4 @@
+id,name,stride_parent,attack_vector,clinical_impact,iso14971_harm
+T1.2,Multimodal Adversarial Fusion Attacks,Tampering/Information Disclosure,Cross-modal adversarial perturbations targeting the fusion layer,Misdiagnosis; incorrect treatment recommendation,Medium
+T4.2,Unsafe Autonomous Clinical Action Chains,Elevation of Privilege/Tampering,Goal manipulation; tool misuse; planning attacks,Unsafe autonomous clinical decisions; suppressed safety alerts,High
+T6.2,Cross-Device Cascading Memory Poisoning,Tampering/Spoofing,Memory injection; context poisoning; cascading propagation,Cascading failures across interconnected device network; corrupted clinical context,High

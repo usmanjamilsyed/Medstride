@@ -1,0 +1,7 @@
+step,phase,description
+1,System Decomposition,"Identify all devices, autonomous agents, data flows, and communication channels"
+2,Modality Identification,"Enumerate all data modalities (imaging, ECG/physiological signals, clinical text, sensor streams)"
+3,Agent Mapping,"Map autonomous agents, tool interfaces, memory channels, inter-agent communication"
+4,Threat Classification,"Classify components and pathways against T1.2, T4.2, T6.2"
+5,Harm Scoring,"Assign patient-harm tier (Low/Medium/High) per ISO 14971-inspired principles"
+6,Prioritisation,"Rank by harm severity and likelihood; produce ordered mitigation backlog"

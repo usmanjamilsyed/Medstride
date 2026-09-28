@@ -1,0 +1,5 @@
+threat,tier,w,r_no_response,r_risk_aware
+T1.2,Medium,2,0.6066,0.0164
+T4.2,High,3,1.0,0.1622
+T6.2,High,3,1.0,0.75
+HWRR,-,-,0.9017,0.3462

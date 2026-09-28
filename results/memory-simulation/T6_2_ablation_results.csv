@@ -1,0 +1,9 @@
+Architecture,Attack,MPSR,Propagation Reach,EHR Reach,Unsafe Episode Rate,Mean Unsafe Actions
+global,trusted_cgm,1.0,1.0,1.0,1.0,3.0
+global,untrusted,1.0,1.0,1.0,1.0,3.0
+provenance,trusted_cgm,1.0,1.0,1.0,1.0,3.0
+provenance,untrusted,0.0,0.0,0.0,0.0,0.0
+scoped,trusted_cgm,1.0,1.0,1.0,1.0,3.0
+scoped,untrusted,1.0,1.0,1.0,1.0,3.0
+secure,trusted_cgm,0.75,0.75,1.0,1.0,2.0
+secure,untrusted,0.0,0.0,0.0,0.0,0.0
